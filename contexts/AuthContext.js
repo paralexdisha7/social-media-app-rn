@@ -9,7 +9,7 @@ export const AuthProvider = ({ children }) => {
   };
 
   const setUserData = (userData) => {
-    setUser({ ...userData });
+    setUser({ ...userData});
   };
 
   return(
