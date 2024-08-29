@@ -9,6 +9,7 @@ LogBox.ignoreLogs([
   "Warning: TNodeChildrenRenderer",
   "Warning: MemoizedTNodeRenderer",
   "Warning: TRenderEngineProvider",
+  "Warning: bound renderChildren",
 ]);
 
 const _layout = () => {
